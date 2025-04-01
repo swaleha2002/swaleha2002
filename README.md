@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Power BI-Advanced DAX,Cloud Data Solutions (AWS, Azure)**
 
-- 👨‍💻 All of my projects are available at [(https://github.com/swaleha2002?tab=repositories)]((https://github.com/swaleha2002?tab=repositories))
+- 👨‍💻 All of my projects are available at (https://github.com/swaleha2002?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@mullaswaleha402](https://medium.com/@mullaswaleha402)
 
