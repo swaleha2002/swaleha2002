@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **- SQL, Python, Power BI, Advanced Excel - Machine Learning (Supervised & Unsupervised) - Data Storytelling & Visualization**
 
-- 📫 How to reach me **Email: swalehabegum1111@gmail.com 🔗 LinkedIn: https://www.linkedin.com/in/swaleha-begum-mulla-187787324/) 🔗 GitHub: https://github.com/swaleha2002**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/swaleha-begum-mulla-187787324/](https://www.linkedin.com/in/swaleha-begum-mulla-187787324/)
 
 - ⚡ Fun fact **I think I am funny 😄**
@@ -73,17 +71,3 @@
 
 💡 *Always exploring data to uncover actionable insights!* 🚀
 
-<!--
-**swaleha2002/swaleha2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
