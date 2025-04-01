@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swaleha Begum Mulla</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*I9-IbXGoQApCu7bk.gif" alt="GIF Description" style="max-width: 1600px; height: 324px;">
-</p>
-
 - 🌱 I’m currently learning **Power BI-Advanced DAX,Cloud Data Solutions (AWS, Azure)**
 
 - 👨‍💻 All of my projects are available at [(https://github.com/swaleha2002?tab=repositories)]((https://github.com/swaleha2002?tab=repositories))
